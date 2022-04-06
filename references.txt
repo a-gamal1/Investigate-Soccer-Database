@@ -1,0 +1,6 @@
+https://commonmark.org/help/tutorial/
+
+https://matplotlib.org/3.1.1/gallery/ticks_and_spines/ticklabels_rotation.html
+
+https://stackoverflow.com/questions/12096252/use-a-list-of-values-to-select-rows-from-a-pandas-dataframe
+
